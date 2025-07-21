@@ -17,11 +17,10 @@ This is the assignment for IST412: Dockerizing the Spring Boot backend service.
 
 ```bash
 docker-compose build
+
 2 Start services
-bash
-复制
-编辑
 docker-compose up
+
 3 Access backend API
 Once the service is running, visit:
 
