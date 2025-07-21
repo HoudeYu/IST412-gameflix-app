@@ -14,7 +14,6 @@ This is the assignment for IST412: Dockerizing the Spring Boot backend service.
 ## Docker Deployment Steps
 
 1 Build Docker image
-
 ```bash
 docker-compose build
 
